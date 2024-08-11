@@ -1,5 +1,4 @@
  this is a new file.
-
 one more line 
 this is a new_1 modified file.
-dev3
+fetching command
