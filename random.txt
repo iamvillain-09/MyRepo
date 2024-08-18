@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 heloooooo
+=======
+one more
+adding a line 
+>>>>>>> 9e3a1eed4c1ebbfa4a01d4d8304ec069be30e68a
